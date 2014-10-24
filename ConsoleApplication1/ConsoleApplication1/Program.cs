@@ -10,7 +10,9 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            int i, j;
             Console.WriteLine("Welcome to Source control..."); 
+
         }
     }
 }
